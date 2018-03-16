@@ -1,0 +1,2 @@
+# ku
+my blog
